@@ -1,4 +1,5 @@
 State|Website|Statewide and Legislative Candidates|Local Candidates|Political Committees|Format|Model Website|Parties|Downloadable Data|Contributor Occuption, Employer and Address|Transaction Dates|Transaction Types|User-friendly/easily searchable
+----|----|------------------------------------|----------------|--------------------|------|-------------|-------|-----------------|------------------------------------------|-----------------|-----------------|------------------------------
 Alabama|http://fcpa.alabamavotes.gov/PublicSite/Homepage.aspx|Yes |Yes|Yes|electronic||Yes|Yes|No|Yes|No|poor
 Alaska|https://aws.state.ak.us/ApocReports/Campaign/|Yes|Yes|Yes|electronic||Yes|No|Yes|Yes|No|poor
 Arizona|http://www.azsos.gov/cfs/|Yes|No|Yes|pdf||Yes|No|No|No|Yes|average
