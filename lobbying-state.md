@@ -58,7 +58,10 @@ To be expanded. Full accounting of available records, their fields, and the rela
 
 ## Resources available:
 
-- [NSCL 50-State Chart](http://www.ncsl.org/research/ethics/50-state-chart-lobbyist-registration-requirements.aspx)
+- [NSCL 50-State Chart of Requirements](http://www.ncsl.org/research/ethics/50-state-chart-lobbyist-registration-requirements.aspx) (current?)
+- [Lobby Comply Blog](http://stateandfed.com/lobbycomply/) 
+- $ [Lobbying and Advocacy](http://www.amazon.com/Lobbying-Advocacy-Strategies-Recommendations-Compliance/dp/1587331004)
+- [OpenCongress State Lobbying Registration Requirements](http://www.opencongress.org/wiki/State_Lobbying_Registration_Requirements) (incomplete, not current)
 
 ## Links to State Lobbying disclosure sources 
 
