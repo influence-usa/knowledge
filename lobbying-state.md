@@ -48,6 +48,10 @@ In investigating the availability of lobbying data at the state level, we want t
     - More commonly, APIs involve some sort of filtering or aggregation of data, which is not considered bulk access
   * More infomation in [the bulk data section](http://sunlightfoundation.com/opendataguidelines/#bulk-data) of the Open Data Policy Guidelines.
 
+Findings to be recorded in this document (for the time being):
+
+    https://docs.google.com/a/sunlightfoundation.com/spreadsheet/ccc?key=0AmCOi8JCvQ6odFZJVlhlOWdsX0JtWjlyZnNBU01iZUE&usp=sharing
+
 ## Data Dictionaries
 
 To be expanded. Full accounting of available records, their fields, and the relationship of records/fields to submitted disclosure forms.
