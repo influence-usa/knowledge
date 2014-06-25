@@ -56,6 +56,10 @@ Findings to be recorded in this document (for the time being):
 
 To be expanded. Full accounting of available records, their fields, and the relationship of records/fields to submitted disclosure forms.
 
+## Resources available:
+
+- [NSCL 50-State Chart](http://www.ncsl.org/research/ethics/50-state-chart-lobbyist-registration-requirements.aspx)
+
 ## Links to State Lobbying disclosure sources 
 
 State of Alabama - Ethics Commission
