@@ -1,3 +1,53 @@
+# State Lobbying
+
+Before reading the below, please make yourself familiar with the [Open Data Policy Guidelines](http://sunlightfoundation.com/opendataguidelines/), published by the Sunlight Foundation. These are useful for understanding what meaningful, proactive releases of open data look like.
+
+### Goals:
+
+ - Maintain an up-to-date reference point for the current state of disclosure and availability of disclosure documents in all 50 states
+ - Identify opportunities to acquire data that is available
+ - Estimate the amount of effort required to acquire data that partially obscured 
+
+## Purpose
+
+While many states and municipalities are adopting policies like those suggested the link above, much of the influence-related data (such as lobbying, campaign finance, personal financial disclosures and certain procurement-related data) are either unavailable or only partially available. The purpose of our investigation here is to determine, with a reasonable level of precision, the exact state of this data's availabilty. 
+
+The primary focus is to identify the feasability of downloading or otherwise extracting this data from its current state into the best formats possible. This document should not be seen as a "report card," per se, but the facts recorded here could certainly be used toward defining metrics addressing a given state's adherence to best practices in democratizing access to influence-related data.
+
+In investigating the availability of lobbying data at the state level, we want to consider three main criteria:
+
+### 1. Disclosure Requirements
+ - **Who** is required to disclose?
+ - **What** are they required to disclose?
+ - **Where** are disclosures submitted?
+ - **When** are disclosures due (and how often)?
+ - **How** may lobbying entities submit disclosures (electronically, on paper, fax, email, carrier pidgeon)
+
+### 2. Availability of Disclosures
+- Locations: Filing Cabinet? Electronic storage? CD-ROM?
+- Delivery: Web? E-mail? USPS? In-person pick up?
+- Access: 
+  * Is it possible to access data without going through a search engine?
+  * Do I need special permissions? 
+  * For web: do I need to sign up for an account and log-in?
+  * Are there any other impediments to recieving the data (in any state)?
+
+### 3. Machine-Processability of Disclosures
+- Is data available in electronic form?
+- Is data available in machine-processable form?
+  * Scanned images and PDFs are almost never [1] to be considered machine-processable
+  * HTML is not preferred, but if its structure can be shown to be predictable and regular, we can call such information minimally machine-processable
+  * To be machine-processable, data must conform to a widely-known and documented specification
+  * Follow links in [the open formats section](http://sunlightfoundation.com/opendataguidelines/#open-formats) of the Open Data Policy Guidelines to learn more about specific formats and their uses.
+- Is the data available in bulk?
+  * Bulk access means the ability to download full data sets (rather than filing by filing, for example)
+  * Public APIs don't count
+    - API access doesn't imply bulk availability, unless an endpoint allows a complete download of itemized and unfiltered records exists
+    - More commonly, APIs involve some sort of filtering or aggregation of data, which is not considered bulk access
+  * More infomation in [the bulk data section](http://sunlightfoundation.com/opendataguidelines/#bulk-data) of the Open Data Policy Guidelines.
+
+## Links to State Lobbying disclosure sources 
+
 State of Alabama - Ethics Commission
 http://ethics.alabama.gov/news2.aspx
 
@@ -145,4 +195,4 @@ https://lobbying.wi.gov/Directories/DirectoryOfRegisteredLobbyingOrganizations/2
 Wyoming Secretary of State
 http://soswy.state.wy.us/Elections/Lobbying.aspx
 
-
+[1] There are some ways to embed data in PDFs, but doing so remains a rare practice
