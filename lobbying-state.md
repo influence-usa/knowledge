@@ -14,6 +14,8 @@ While many states and municipalities are adopting policies like those suggested 
 
 The primary focus is to identify the feasability of downloading or otherwise extracting this data from its current state into the best formats possible. This document should not be seen as a "report card," per se, but the facts recorded here could certainly be used toward defining metrics addressing a given state's adherence to best practices in democratizing access to influence-related data.
 
+## General Investigation: State of Disclosure
+
 In investigating the availability of lobbying data at the state level, we want to consider three main criteria:
 
 ### 1. Disclosure Requirements
@@ -45,6 +47,10 @@ In investigating the availability of lobbying data at the state level, we want t
     - API access doesn't imply bulk availability, unless an endpoint allows a complete download of itemized and unfiltered records exists
     - More commonly, APIs involve some sort of filtering or aggregation of data, which is not considered bulk access
   * More infomation in [the bulk data section](http://sunlightfoundation.com/opendataguidelines/#bulk-data) of the Open Data Policy Guidelines.
+
+## Data Dictionaries
+
+To be expanded. Full accounting of available records, their fields, and the relationship of records/fields to submitted disclosure forms.
 
 ## Links to State Lobbying disclosure sources 
 
