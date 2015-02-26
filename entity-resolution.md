@@ -1,4 +1,19 @@
-# To Read 
+# To Read Now
+
+[http://dbs.uni-leipzig.de/file/FrameworksForEntityMatchingAComparison_dke.pdf](http://dbs.uni-leipzig.de/file/FrameworksForEntityMatchingAComparison_dke.pdf)
+
+[http://ilpubs.stanford.edu:8090/1022/2/PAYGER_TKDE.pdf](http://ilpubs.stanford.edu:8090/1022/2/PAYGER_TKDE.pdf)
+
+[http://arxiv.org/pdf/1103.2410.pdf](http://arxiv.org/pdf/1103.2410.pdf)
+
+[http://ilpubs.stanford.edu:8090/974/3/EvolvingRulesVLDB.pdf](http://ilpubs.stanford.edu:8090/974/3/EvolvingRulesVLDB.pdf)
+
+[http://www.vldb.org/pvldb/vol7/p697-gruenheid.pdf](http://www.vldb.org/pvldb/vol7/p697-gruenheid.pdf)
+
+[http://ilpubs.stanford.edu:8090/1066/2/JointER_VLDBJ.pdf](http://ilpubs.stanford.edu:8090/1066/2/JointER_VLDBJ.pdf)
+
+# To Read Someday 
+
 [http://arxiv.org/pdf/1402.4417v1.pdf](http://arxiv.org/pdf/1402.4417v1.pdf)
 
 [http://ceur-ws.org/Vol-1200/paper1.pdf](http://ceur-ws.org/Vol-1200/paper1.pdf)
